@@ -1,0 +1,231 @@
+# depslib dependency file v1.0
+1571529525 source:c:\users\pc\desktop\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571657987 source:c:\users\dell\desktop\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571657987 source:d:\kais nouveau\kais 2019_2020\menu deroulant\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571650788 source:c:\mingw\include\graphic\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571650788 source:c:\mingw\include\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571650788 source:c:\users\acer\desktop\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1611351488 source:c:\users\acer\desktop\projet c\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	<wchar.h>
+	"entree_sortie.h"
+	"TP2.h"
+	"TP3.h"
+	"TP4.h"
+
+1611154746 c:\users\acer\desktop\projet c\graphic\entree_sortie.h
+	<string.h>
+	<limits.h>
+
+1611168578 c:\users\acer\desktop\projet c\graphic\tp2.h
+	<stdio.h>
+	<string.h>
+	"entree_sortie.h"
+
+1611169232 c:\users\acer\desktop\projet c\graphic\tp3.h
+	<limits.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"entree_sortie.h"
+
+1611351780 c:\users\acer\desktop\projet c\graphic\tp4.h
+	<stdio.h>
+	"entree_sortie.h"
+	"affichage_voix.h"
+
+1611351097 c:\users\acer\desktop\projet c\graphic\affichage_voix.h
+
+1611508913 source:c:\users\acer\desktop\cours\projet c\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	<wchar.h>
+	"entree_sortie.h"
+	"TP2.h"
+	"TP3.h"
+	"TP4.h"
+
+1611441076 c:\users\acer\desktop\cours\projet c\graphic\entree_sortie.h
+	<string.h>
+	<limits.h>
+
+1611509952 c:\users\acer\desktop\cours\projet c\graphic\tp2.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	"entree_sortie.h"
+	"animation.h"
+
+1611507652 c:\users\acer\desktop\cours\projet c\graphic\tp3.h
+	<limits.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"entree_sortie.h"
+
+1611445201 c:\users\acer\desktop\cours\projet c\graphic\tp4.h
+	<stdio.h>
+	"entree_sortie.h"
+	"affichage_voix.h"
+
+1611445431 c:\users\acer\desktop\cours\projet c\graphic\affichage_voix.h
+
+1611412683 c:\users\acer\desktop\cours\projet c\graphic\animation.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+
+1611693969 source:c:\users\acer\desktop\cours\projet c\graphic_dimassi_khouloud_houssem\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	<wchar.h>
+	"entree_sortie.h"
+	"TP2.h"
+	"TP3.h"
+	"TP4.h"
+
+1611441076 c:\users\acer\desktop\cours\projet c\graphic_dimassi_khouloud_houssem\entree_sortie.h
+	<string.h>
+	<limits.h>
+
+1611509952 c:\users\acer\desktop\cours\projet c\graphic_dimassi_khouloud_houssem\tp2.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	"entree_sortie.h"
+	"animation.h"
+
+1611694606 c:\users\acer\desktop\cours\projet c\graphic_dimassi_khouloud_houssem\animation.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+
+1611507652 c:\users\acer\desktop\cours\projet c\graphic_dimassi_khouloud_houssem\tp3.h
+	<limits.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"entree_sortie.h"
+
+1611699855 c:\users\acer\desktop\cours\projet c\graphic_dimassi_khouloud_houssem\tp4.h
+	<stdio.h>
+	"entree_sortie.h"
+	"affichage_voix.h"
+
+1611445431 c:\users\acer\desktop\cours\projet c\graphic_dimassi_khouloud_houssem\affichage_voix.h
+
+1622411238 source:c:\users\acer\desktop\projet c s2\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	<wchar.h>
+	"creation.h"
+	"enregistrer_recuperer.h"
+	"fonctions_generales.h"
+	"MaJ.h"
+	"recherche_aff.h"
+	"structure.h"
+
+1622411449 c:\users\acer\desktop\projet c s2\creation.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fonctions_generales.h"
+
+1622410898 c:\users\acer\desktop\projet c s2\enregistrer_recuperer.h
+
+1622412382 c:\users\acer\desktop\projet c s2\fonctions_generales.h
+	<stdio.h>
+	"structure.h"
+
+1622414555 c:\users\acer\desktop\projet c s2\maj.h
+
+1622389114 c:\users\acer\desktop\projet c s2\recherche_aff.h
+
+1622111064 c:\users\acer\desktop\projet c s2\tableau.h
+	<stdio.h>
+	"fonctions_generales.h"
+
+1622300760 c:\users\acer\desktop\projet c s2\structure.h
+
+1622448257 source:e:\polytec\'c'_avancé\mini_projet_c_avancé\projet c s2\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	<wchar.h>
+	"creation.h"
+	"enregistrer_recuperer.h"
+	"fonctions_generales.h"
+	"MaJ.h"
+	"recherche_aff.h"
+	"structure.h"
+
+1622411449 e:\polytec\'c'_avancé\mini_projet_c_avancé\projet c s2\creation.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fonctions_generales.h"
+
+1622461009 e:\polytec\'c'_avancé\mini_projet_c_avancé\projet c s2\fonctions_generales.h
+	<stdio.h>
+	"structure.h"
+
+1622300760 e:\polytec\'c'_avancé\mini_projet_c_avancé\projet c s2\structure.h
+
+1622410898 e:\polytec\'c'_avancé\mini_projet_c_avancé\projet c s2\enregistrer_recuperer.h
+
+1622456649 e:\polytec\'c'_avancé\mini_projet_c_avancé\projet c s2\maj.h
+
+1622389114 e:\polytec\'c'_avancé\mini_projet_c_avancé\projet c s2\recherche_aff.h
+
